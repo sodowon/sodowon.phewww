@@ -43,7 +43,7 @@ a{text-decoration:none;}
     .trend li:nth-child(1){background:url(../img/img1.jpg)no-repeat center; background-size:cover;margin-bottom:1%;}
     .trend li:nth-child(2){background:url(../img/img2.jpg)no-repeat center; background-size:cover;margin-bottom:1%;}
     .trend li:nth-child(3){background:url(../img/img3.jpg)no-repeat center; background-size:cover;}
-    .trend li:nth-child(4){background:url(../img/img4.jpg)no-repeat center; background-size:cover;}
+    .trend li:nth-child(4){background:url(../img/img4.JPG)no-repeat center; background-size:cover;}
     .trend_r{width:49.5%; height:80%; background:url(../img/trend1.jpg)no-repeat center; background-size:cover;border-radius:15px;}
     .trend_r:hover{opacity:0.6;}
 
@@ -108,7 +108,7 @@ a{text-decoration:none;}
      .trend li:nth-child(1){background:url(../img/img1.jpg)no-repeat center; background-size:cover;margin-bottom:1%;}
      .trend li:nth-child(2){background:url(../img/img2.jpg)no-repeat center; background-size:cover;margin-bottom:1%;}
      .trend li:nth-child(3){background:url(../img/img3.jpg)no-repeat center; background-size:cover;}
-     .trend li:nth-child(4){background:url(../img/img4.jpg)no-repeat center; background-size:cover;}
+     .trend li:nth-child(4){background:url(../img/img4.JPG)no-repeat center; background-size:cover;}
      .trend_r{width:100%; height:100%; background:url(../img/trend1.jpg)no-repeat center; background-size:cover;border-radius:15px;display:none;}
      .trend_r:hover{opacity:0.6;}
 
